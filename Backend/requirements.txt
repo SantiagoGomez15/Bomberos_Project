@@ -1,0 +1,3 @@
+FastApi
+uvicorn
+sqlalchemy #para trabajar con bases de datos
